@@ -1,5 +1,5 @@
 # Lab2Web
-Praktikum 2: CSS Dasar
+## Praktikum 2: CSS Dasar
 Tujuan
 Pada praktikum ini mahasiswa belajar:
 1.Konsep dasar CSS.
